@@ -1,0 +1,4 @@
+arm:
+   baselink: base_link
+   endlink: tool0
+
